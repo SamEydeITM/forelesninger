@@ -114,9 +114,12 @@ Se eksempler og les dokumentasjon på
 
 ----
 
+
 ![Alt text](image-4.png)
 
+
 ---
+
 
 ## W3Schools
 
