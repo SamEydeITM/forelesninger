@@ -1,0 +1,9 @@
+{
+    "controls": false,
+    "controlsTutorial": false,
+    "progress": false,
+    "highlight-theme": "github-dark",
+    "showNotes": "separate-page",
+    "slideNumber": true,
+    "touch": true
+  }
